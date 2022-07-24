@@ -1,3 +1,5 @@
+# 만약 양의 무한대 / 음의 무한대를 하고 싶다면 => float('-inf'), float('inf')
+
 for test_case in range(1,int(input())+1):
     a, b = map(int,input().split())
     list_a = list(map(int,input().split()))
