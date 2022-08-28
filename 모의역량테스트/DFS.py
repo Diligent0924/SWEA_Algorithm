@@ -9,11 +9,11 @@
 1 6
 '''
 def dfs(graph, start_node):
-    # need_visited : ??, visited : 방문한 곳
+    # need_visited : 이제 곧 갈 곳, visited : 방문한 곳
     need_visited, visited = [],[]
     need_visited.append(start_node)
     
-    while need_visited:
+    while need_visited: # 가야할곳이 없다면 끝낸다.
         print(f'graph : {graph}')
         print(f'need_visited : {need_visited}')
         print(f'visited : {visited}')
