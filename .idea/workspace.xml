@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3bd60c0-6274-4593-b39c-df3000644c0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SWEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/1936. 1대1 가위바위보" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2058. 자릿수 더하기" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2063. 중간값 찾기" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1859_백만장자프로젝트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1946_간단한 압축 풀기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1954_달팽이숫자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1959_두 개의 숫자열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1961_ 숫자 배열 회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1966_숫자를정렬하자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1974_스도쿠 검증.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1979_어디에 단어가 들어갈 수 있을까.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/2001_파리 퇴치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/4825_구간합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/4828_minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/4834_숫자카드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/4836_색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/4843_특별한정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/1206_view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/1208_Flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/1209_Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/1215_회문1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/1216_회문2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/1234_비밀번호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/5356_의석이의세로로말해요.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/5431_민석이과제체크하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/5789_현주의상자바꾸기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/6485_삼성시의버스노선.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/모의역량테스트/1952_수영장.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/모의역량테스트/DFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/모의역량테스트/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시험준비/1244_스위치켜고끄기.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DyhV5B0X4vSDTDNRNcS3PGP2qU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3bd60c0-6274-4593-b39c-df3000644c0c" name="Default Changelist" comment="" />
+      <created>1661677253968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661677253968</updated>
+    </task>
+    <servers />
+  </component>
+</project>
